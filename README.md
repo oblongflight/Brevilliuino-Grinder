@@ -6,7 +6,7 @@
 
 ## Pinouts
 The LilyGo T-Display S3 is available in a plastic case with presoldered female headers. This is the version I used. 5V is supplied to the JST battery connector at the bottom of the PCB.
-![pinout](/T-displayS3.png)
+![pinout](/T-DisplayS3.png)
 ![plastic case](/T-DisplayS3Case.jpg)
 
 ## Hardware
